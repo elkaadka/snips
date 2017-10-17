@@ -1,0 +1,14 @@
+{
+  "name": "reader",
+  "version": "1.0.0",
+  "description": "The intent reader that reads the intent and translates it into a comprehensible mqqt entry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adil El Kanabi",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.13.1"
+  }
+}
